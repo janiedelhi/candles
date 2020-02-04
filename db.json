@@ -11,6 +11,34 @@
         {
             "name": "Lavanda",
             "id":102
+        },
+        {
+            "name": "Cafecito por la mañana",
+            "id": 103
+        },
+        {
+            "name": "Petrichor",
+            "id": 104
+        },
+        {
+            "name": "Tierra mojada",
+            "id": 105
+        },
+        {
+            "name": "Saltwater",
+            "id": 106
+        },
+        {
+            "name": "Apple of my eye",
+            "id": 107
+        },
+        {
+            "name": "Christmas Morning",
+            "id": 108
+        },
+        {
+            "name": "PNW",
+            "id": 109
         }
     ]
 }
