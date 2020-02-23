@@ -2,43 +2,53 @@
     "candles": [
         {
             "name": "Tutti Frutti",
-            "id":100 
+            "id":100,
+            "price": "$25" 
         },
         {
             "name": "Eucalyptus",
-            "id": 101
+            "id": 101,
+            "price": "$30"
         },
         {
             "name": "Lavanda",
-            "id":102
+            "id":102,
+            "price": "$30"
         },
         {
             "name": "Cafecito por la mañana",
-            "id": 103
+            "id": 103,
+            "price": "$20"
         },
         {
             "name": "Petrichor",
-            "id": 104
+            "id": 104,
+            "price": "$25"
         },
         {
             "name": "Tierra mojada",
-            "id": 105
+            "id": 105,
+            "price": "$20"
         },
         {
             "name": "Saltwater",
-            "id": 106
+            "id": 106,
+            "price": "$30"
         },
         {
             "name": "Apple of my eye",
-            "id": 107
+            "id": 107,
+            "price": "$18"
         },
         {
             "name": "Christmas Morning",
-            "id": 108
+            "id": 108,
+            "price": "$25"
         },
         {
             "name": "PNW",
-            "id": 109
+            "id": 109,
+            "price": "$25"
         }
     ]
 }
