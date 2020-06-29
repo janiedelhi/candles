@@ -49,6 +49,11 @@
             "name": "PNW",
             "id": 109,
             "price": "$25"
+        },
+        {
+            "name": "new candle",
+            "id": 110,
+            "price": "$10"
         }
     ]
 }
